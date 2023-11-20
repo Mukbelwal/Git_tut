@@ -1,1 +1,2 @@
- This is a static file.
+This is a test file.
+This is created to perform test on project.
