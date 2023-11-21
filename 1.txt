@@ -1,3 +1,2 @@
 This is a version 1 file. 
-Added new line to my file.
 Committing to the previous commit.
