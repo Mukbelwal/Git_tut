@@ -3,3 +3,5 @@ Committing to the previous commit.
 Added new line to fix bugs.
 This is the master branch
 
+I have added new line
+
