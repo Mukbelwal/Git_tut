@@ -1,5 +1,1 @@
-This is a version 1 file. 
-Committing to the previous commit.
-Added new line to fix bugs.
-This is the master branch
-
+print("Hello World")
